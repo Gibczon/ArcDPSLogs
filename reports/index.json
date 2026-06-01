@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260601-205829-m6q1",
+      "title": "The Donkey Knight",
+      "commanders": [
+        "The Donkey Knight"
+      ],
+      "dateStart": "2026-06-01T18:58:29.000Z",
+      "dateEnd": "2026-06-01T20:05:14.000Z",
+      "dateLabel": "1.06.2026, 20:58:29 - 1.06.2026, 22:05:14",
+      "url": "https://Gibczon.github.io/ArcDPSLogs/?report=20260601-205829-m6q1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 32,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260529-212010-8hsg",
       "title": "The Donkey Knight",
       "commanders": [
