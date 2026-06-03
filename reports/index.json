@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260603-201749-boxj",
+      "title": "The Donkey Knight",
+      "commanders": [
+        "The Donkey Knight"
+      ],
+      "dateStart": "2026-06-03T18:17:49.000Z",
+      "dateEnd": "2026-06-03T19:46:15.000Z",
+      "dateLabel": "3.06.2026, 20:17:49 - 3.06.2026, 21:46:15",
+      "url": "https://Gibczon.github.io/ArcDPSLogs/?report=20260603-201749-boxj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 28,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260601-205829-m6q1",
       "title": "The Donkey Knight",
       "commanders": [
