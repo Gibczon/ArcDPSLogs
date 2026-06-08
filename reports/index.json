@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260608-200339-8zuc",
+      "title": "The Donkey Knight",
+      "commanders": [
+        "The Donkey Knight"
+      ],
+      "dateStart": "2026-06-08T18:03:39.000Z",
+      "dateEnd": "2026-06-08T19:52:33.000Z",
+      "dateLabel": "8.06.2026, 20:03:39 - 8.06.2026, 21:52:33",
+      "url": "https://Gibczon.github.io/ArcDPSLogs/?report=20260608-200339-8zuc",
+      "summary": {
+        "borderlandsPct": 0.21212121212121213,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 26,
+            "color": "#64748b"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260603-201749-boxj",
       "title": "The Donkey Knight",
       "commanders": [
