@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260617-210045-a72s",
+      "title": "The Donkey Knight",
+      "commanders": [
+        "The Donkey Knight"
+      ],
+      "dateStart": "2026-06-17T19:00:45.000Z",
+      "dateEnd": "2026-06-17T19:37:03.000Z",
+      "dateLabel": "17.06.2026, 21:00:45 - 17.06.2026, 21:37:03",
+      "url": "https://Gibczon.github.io/ArcDPSLogs/?report=20260617-210045-a72s",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 25,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260615-204348-kelc",
       "title": "Puré Lífe, The Donkey Knight",
       "commanders": [
